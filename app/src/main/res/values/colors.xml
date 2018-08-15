@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3498db</color>
+    <color name="colorPrimaryDark"> #2e86c1</color>
+    <color name="colorAccent">#E9EBEE</color>
+    <color name="nav_header_color">  #3498db </color>
+    <color name="border_post_color">  #3498db </color>
+    //Design Settings Color
+    <color name="colorPrimaryDarkv2"> #292b3d</color>
+    <color name="graylight"> #fafafa</color>
+    <color name="startblue"> #3498db</color>
+    <color name="endblue"> #2e86c1</color>
+    <color name="mainBackground"> #E9EBEE</color>
+    //Text Color
+    <color name="textBlue"> #2e86c1</color>
+    //Color Bubble Chat
+    <color name="sendercolor"> #85c1e9</color>
+    <color name="receivercolor"> #E9EBEE</color>
+</resources>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "306361165553",
+    "firebase_url": "https://vriend-71117.firebaseio.com",
+    "project_id": "vriend-71117",
+    "storage_bucket": "vriend-71117.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306361165553:android:b325e361eb7312af",
+        "android_client_info": {
+          "package_name": "com.myasuspc.socialnetwork"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306361165553-ecpq70gat49fv7grl3kgu67hu7rfm3m9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.myasuspc.socialnetwork",
+            "certificate_hash": "5d00180b8d8b48045cf902eb4b51a45cd8575c9e"
+          }
+        },
+        {
+          "client_id": "306361165553-k83hs46rardiq4sd88ubcefdd8cnkgd8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGXxzzf-udBUuZBrXQ0BEBVENK2h-_tMA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "306361165553-k83hs46rardiq4sd88ubcefdd8cnkgd8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
